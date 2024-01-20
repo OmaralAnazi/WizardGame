@@ -20,5 +20,5 @@ The "Wizard Game" is an interactive guided project from the Scrimba Front-End De
 To view this project, clone the repository to your local machine and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://illustrious-monstera-19feae.netlify.app/)
 
